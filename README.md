@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Vinicius</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado do Brasil.</h3>
+<h3 align="center">Um desenvolvedor C#, do Brasil.</h3>
 
-- 🌱 Eu estou estudando **HTML5, CSS3 e JavaScript**
+- 🌱 Eu estou estudando **C#**
 
 - 📫 Você me achar através do e-mail **vinibalera@gmail.com**
 
